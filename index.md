@@ -6,10 +6,11 @@ You can use the [editor on GitHub](https://github.com/embemis16/embemis16.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a junior at Catawba College, majoring in Entrepreneurial Sustainability. I am a member of the track and field and cross country teams at the school as well.
 
+https://avatars2.githubusercontent.com/u/61389153?s=60&v=4
 ```markdown
 Syntax highlighted code block
 
